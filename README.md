@@ -1,3 +1,3 @@
 # pass
 
-This repo is good!!!!!!!!!!!
+Run this in CI!
