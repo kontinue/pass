@@ -1,3 +1,3 @@
 # pass
 
-This repo is good!!!!!!!!!!!
+CI is a go!
