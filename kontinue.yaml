@@ -1,5 +1,7 @@
-image: golang
-
-test:
-  command: |-
-    go test -v
+apiVersion: experimental.kontinue.io/v1
+kind: GitSource
+metadata:
+  creationTimestamp: null
+  name: test
+spec:
+  repository: ""
