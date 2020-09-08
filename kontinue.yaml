@@ -1,5 +1,2 @@
 image: golang
-
-test:
-  command: |-
-    go test -v
+test: go test -v
